@@ -1,6 +1,6 @@
-baseURL = "https://example.org/"
+baseURL = "https://owlsectechnologies2.netlify.app"
 languageCode = "en-us"
-title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+title = "OwlSec Technologies | I.T and Cybersecurity Agency Based in Nairobi, Kenya"
 theme = "navigator-hugo"
 summaryLength = 10
 
@@ -28,8 +28,8 @@ code = "fr"
 code = "en"
 
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "OwlSec Technologies"
+description = "Welcome to OwlSec Technologies"
 
 # Gestion des langues : FR / EN / NL / DE
 [Languages]
@@ -104,7 +104,7 @@ btnText = "Nous contacter"
 [Languages.en]
 weight = 2
 languageCode = "en-us"
-title = "Example site multi-language"
+title = "OwlSec Technologies"
 dateFormat = "January 2, 2006"
 
 home = "EN Home"
